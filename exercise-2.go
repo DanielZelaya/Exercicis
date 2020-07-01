@@ -114,6 +114,13 @@ func main() {
 	//fmt.Println("what would you like me to say at your funeral?")
 	//}
 
+	//Exercise 10
+	//fmt.Println(true && true)
+	//fmt.Println(true && false)
+	//fmt.Println(true || true)
+	//fmt.Println(true || false)
+	//fmt.Println(!true)
+
 	//Exercises - Ninja Level 2
 	//Exercise 1
 	//var number int
